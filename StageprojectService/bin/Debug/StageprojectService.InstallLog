@@ -1,0 +1,231 @@
+﻿Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Création d'une source EventLog parental control dans le journal Application...
+Restauration de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Restauration de l'état précédent du journal des événements pour la source parental control.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Le service parental control a été installé avec succès.
+Création d'une source EventLog parental control dans le journal Application...
+Validation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Création d'une source EventLog parental control dans le journal Application...
+Restauration de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Restauration de l'état précédent du journal des événements pour la source parental control.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Création d'une source EventLog parental control dans le journal Application...
+Restauration de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Restauration de l'état précédent du journal des événements pour la source parental control.
+Désinstallation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Suppression de la source EventLog parental control.
+Une exception s'est produite lors de la désinstallation du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Accès au registre demandé non autorisé.
+Une exception s'est produite lors de la désinstallation. Cette exception est ignorée et la désinstallation se poursuit. Cependant, l'application ne sera pas totalement désinstallée une fois la désinstallation terminée.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Création d'une source EventLog parental control dans le journal Application...
+Restauration de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Restauration de l'état précédent du journal des événements pour la source parental control.
+Désinstallation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Suppression de la source EventLog parental control.
+Une exception s'est produite lors de la désinstallation du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Accès au registre demandé non autorisé.
+Une exception s'est produite lors de la désinstallation. Cette exception est ignorée et la désinstallation se poursuit. Cependant, l'application ne sera pas totalement désinstallée une fois la désinstallation terminée.
+Désinstallation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Suppression de la source EventLog parental control.
+Le service parental control est en cours de suppression du système...
+Le service parental control a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Le service parental control a été installé avec succès.
+Création d'une source EventLog parental control dans le journal Application...
+Validation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Désinstallation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Suppression de la source EventLog parental control.
+Le service parental control est en cours de suppression du système...
+Le service parental control a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Le service parental control a été installé avec succès.
+Création d'une source EventLog parental control dans le journal Application...
+Validation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Désinstallation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Suppression de la source EventLog parental control.
+Le service parental control est en cours de suppression du système...
+Le service parental control a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Le service parental control a été installé avec succès.
+Création d'une source EventLog parental control dans le journal Application...
+Validation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Désinstallation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Suppression de la source EventLog parental control.
+Le service parental control est en cours de suppression du système...
+Le service parental control a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Création d'une source EventLog parental control dans le journal Application...
+Restauration de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Restauration de l'état précédent du journal des événements pour la source parental control.
+Désinstallation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Suppression de la source EventLog parental control.
+Avertissement : la source parental control n'est pas inscrite sur l'ordinateur local.
+Le service parental control est en cours de suppression du système...
+Le service parental control a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Création d'une source EventLog parental control dans le journal Application...
+Restauration de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Restauration de l'état précédent du journal des événements pour la source parental control.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Création d'une source EventLog parental control dans le journal Application...
+Restauration de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Restauration de l'état précédent du journal des événements pour la source parental control.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Création d'une source EventLog parental control dans le journal Application...
+Restauration de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Restauration de l'état précédent du journal des événements pour la source parental control.
+Installation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe
+Installation du service parental control en cours...
+Le service parental control a été installé avec succès.
+Création d'une source EventLog parental control dans le journal Application...
+Validation de l'assembly 'C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.InstallLog
+   assemblypath = C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\StageprojectService\bin\Debug\StageprojectService.exe

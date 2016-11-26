@@ -1,0 +1,12 @@
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csprojResolveAssemblyReference.cache
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csprojResolveAssemblyReference.cache
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+C:\Users\nasre\Documents\Visual Studio 2015\Projects\StageprojectService\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb
